@@ -16,10 +16,6 @@ Purchases are handled by Apple; we never see your payment details. We do not sel
 
 You can turn off tracking or notifications in iOS Settings at any time, or delete the app. For any other request, email us.
 
-## Children
-
-Khachbar is not directed at children under 13, and we do not knowingly collect their data.
-
 ## Changes
 
 We may update this policy. The date at the top shows the latest version.
